@@ -8,12 +8,6 @@
 
 -------
 
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
-</p>
 
 # ❗ Do Artigo
 Projeto com o objetivo de gerar um artigo técnico com as facilidades das ferramentas de IA. Abaixo estarão todos os prompts utilizados das diferentes ferramentas.
