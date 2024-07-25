@@ -1,5 +1,9 @@
+# 📖 Desafio de projeto Bootcamp DIO: Criando um Artigo Técnico com IA
+## 💻 Meu perfil na DIO: [Digital Innovation One](https://www.dio.me/users/graziellapereira52)
+## 🤝 Conecte-se comigo: [Linkedin](https://www.linkedin.com/in/graziellapereira/)
+
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="https://github.com/GraziellaPereira/DesafioProjeto-Criando-Artigos-Com-IA/blob/main/.github/assets/tablet-removebg.png?raw=true">
 </p>
 
 
