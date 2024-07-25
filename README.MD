@@ -6,43 +6,20 @@
     <img width="700" src="https://github.com/GraziellaPereira/DesafioProjeto-Criando-Artigos-Com-IA/blob/main/.github/assets/tablet-removebg.png?raw=true">
 </p>
 
-
-<p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
-  </a>
-</p>
-
 -------
 
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
-</p>
 
-# Projeto artigo técnico gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
-
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
-
-<a href="https://web.dio.me/articles/diretivas-estruturais-versus-diretivas-de-atributo-qual-usar-no-angular?back=%2Farticles&page=1&order=oldest#state=044ab194-1e3a-4b8e-95fe-c0f6b3b5260e&session_state=efdc9591-d6fe-4d79-ae97-e58af45061da&code=5ac231e4-c722-46c3-bb7f-32ce5363fb78.efdc9591-d6fe-4d79-ae97-e58af45061da.a889d5a2-0d02-46df-83a5-28a1b4ac39ab" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+# ❗ Do Artigo
+Projeto com o objetivo de gerar um artigo técnico com as facilidades das ferramentas de IA. Abaixo estarão todos os prompts utilizados das diferentes ferramentas.
+ > ℹ️ **NOTE:** O conteúdo deste artigo está sujeito a erros de inteligência artificial por mais que tenha sido revisado por uma pessoa real.
+<a href="https://web.dio.me/articles/primeiros-passos-na-carreira-de-ti-um-norte-para-novatos?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
+- [ChatGPT](https://chat.openai.com/) - para gerar título e conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [Canva](https://www.canva.com/) - Para formatação de banners e Layouts
+- [Notion](https://www.notion.so) - Para formatação de texto
 
 ## 📄 Prompts e ferramentas
 
@@ -51,48 +28,46 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para títulos de um artigo com o assunto "o norte para um novo ingressante na área de t.i", o artigo será um guia para um iniciante na carreira de tecnologia.                                                                                                                                                                                                   |
+| conteúdo | Comporte-se como um escritor de artigos tech, sênior em um emprego de tecnologia de informação e escreva o artigo atendendo as regras abaixo: Regras: - No máximo 5 linhas por blocos de explicação - Explique de maneira informal como se fosse para uma criança de 10 anos - Os blocos que serão criados estão abaixo: - Sobre a carreira de tecnologia de informação - Por onde começar? - Dê exemplos relacionados a estudos, como de cursos, livros, podcasts, sites, etc - Defina que área seguir - Dê exemplos práticos dos diferentes setores em que se pode trabalhar com t.i - Front, back ou full stack? - Defina o que é front end, o que é back end, o que é full stack e para quem é indicado cada uma dessas áreas - Defina seu tech stack - Cite exemplos de tech stacks e onde eles são mais utilizados, como exemplos de linguagem de programação, exemplos de sql, apis, servidores, bibliotecas, frameworks,  versionamento de código, ferramentas de design, entre outros - Consulte roadmaps - Dê exemplos de ferramentas, sites que possuem roadmaps - Faça uma breve conclusão - Faça um call to action para minhas redes sociais - Coloque hashtags que façam sentido cite sobre os sites Codeacademy, W3Schools, edX, Codewars, Udemy, Freecodecamp cite pelo menos 5 livros mais recomendados para a área de t.i em portugues quero pelo menos 5 exemplos de canais com conteúdo em português cite mais 10 áreas de tecnologia incluindo web design, erp e ui/ux Deixe mais maduro, ainda com uma explicação simples, mas sem ser infantil, faça melhorias conforme explicações em parênteses |
 
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
-• Angular
-
+|  Banner  | Prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| 1 | [A man sitting in a chair and writing with a pen on a paper surrounded by a technological laboratory with electronic circuits and computer code symbols and people working on their computer with colors of blue and purple](https://lexica.art/prompt/9180f39a-9a1b-4fa5-a3d4-b1911d6f4a4d) |
+| 2 | [crying, female cyborg, in retro tight-fitted clothes, with curly afro, makeup smeared with tears, anime manga style, dark purple colors.](https://lexica.art/prompt/1edc5495-57f9-42ab-98cf-84861d5b05b7) |
 
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+- Conteúdo gerado via ChatGPT e revisado por um humano
+- Imagens de banners do acervo público geradas via Lexica.art
 
 ## 📚 Materiais
 
-- prompts utilizados
+- prompts utilizados (vide tabela)
+- canva para edição do banner
+- Notion para formatar o texto
 
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
-
-## 👨‍💻 Expert
+## 🖌 Autora
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://media-gru2-1.cdn.whatsapp.net/v/t61.24694-24/437289989_765255408692368_8150211300087041613_n.jpg?ccb=11-4&oh=01_Q5AaIAAi3mlqVD0onuM_wCtcnCPtowapOUT8D__aFFIZWYWM&oe=66AEB18E&_nc_sid=e6ed6c&_nc_cat=110"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGraziella Pereira<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/GraziellaPereira">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+graziellapereira">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/passarosdeargila/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -100,5 +75,3 @@ felipe-exe">LinkedIn</a>
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
